@@ -51,19 +51,19 @@ This platform accelerates discovery of hybrid plant-inspired CO₂ sorbents by *
 # Screenshots
 
 ### 1. Goal Builder (English Mode)
-![Goal Builder](assets/screenshot_goal_builder.png)
+![Goal Builder](assets/screenshot_goal_builder.jpeg)
 *Figure 2: User input environment conditions.*
 
 ### 2. Hybrid MOF Generation
-![Hybrid MOF](assets/screenshot_hybrid.png)
+![Hybrid MOF](assets/screenshot_hybrid.jpeg)
 *Figure 3: 3D visual of generated hybrid MOF linker and metal with legend*
 
 ### 3. 3D MOF CIF Viewer  
-![3D MOF Viewer](assets/screenshot_mof_3d.png)
+![3D MOF Viewer](assets/screenshot_mof_3d.jpeg)
 *Figure 4: 3D visual of MOF inspiration with associated literature (DOI)*
 
 ### 4. Plant Enzyme Viewer (PDB)
-![Enzyme Viewer](assets/screenshot_enzyme.png)
+![Enzyme Viewer](assets/screenshot_enzyme.jpeg)
 *Figure 5: 3D visual of plant enzyme inspiring the generated hybrid MOF*
 
 ---
