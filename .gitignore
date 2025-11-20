@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large / local artifacts
+gnn_data/processed/
+trained_models/
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env / secrets
+.env
+*.env
